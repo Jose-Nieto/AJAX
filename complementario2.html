@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <title>Libreria salesiana </title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="css/comple2.css">
+        <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
+    </head>
+    
+    <body>
+        <header>
+            <h1>Catálogo Librería</h1>
+        </header>
+    <section>
+        <article>
+            <div>
+                <input type="button" class="cargar" value="Cargar" onclick="get_booklist();">
+                <br><br>
+                <input type="text" name="search" id="searchbar" onkeyup="searchkeyup(event);"><br>
+                <div style="width:600px;height:30px;font-family:helvetica;" id="cantidad"></div>
+                <ul style="border:1px solid #99f;width:600px;height:330px;" class="bacon" id="caja">
+                </ul>
+                <br>
+            </article>
+        </div>
+    </section>
+    <script src="js/comple2.js"></script>
+    <script src="js/util_ajax.js"></script>
+</body>
+
+</html>

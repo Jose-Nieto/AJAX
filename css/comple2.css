@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    font-family: 'Bitter', serif;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+.cargar{
+    position: absolute;
+    margin-left: 670px;
+margin-top: 37px;
+}
+#searchbar{
+    margin-left: 500px;
+}
+#cantidad{
+    margin-left: 550px; 
+    margin-top: 20px;
+}
+.bacon{
+    margin-left:320px ;
+}
+a{
+    color: crimson;
+text-decoration: none;
+margin-bottom: 40px;
+}
