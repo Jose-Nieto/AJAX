@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  display: block;
+  margin-top: 25px;
+  margin-left: 250px;
+}
+.toggle{
+ 
+  display: inline;
+  background-color: yellow;
+  padding:10px;
+
+
+}
