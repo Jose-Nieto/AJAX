@@ -1,8 +1,7 @@
-
 {
   "project": {
     "version": "1.0.0-beta.28.3",
-    "name": "formulario"
+    "name": "complementario1"
   },
   "apps": [
     {
@@ -29,9 +28,6 @@
       }
     }
   ],
-
-  
-  
   "e2e": {
     "protractor": {
       "config": "./protractor.conf.js"

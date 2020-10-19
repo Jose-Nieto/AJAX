@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+}
+
+#uno{
+    margin-left: 480px;
+}
+table{
+ 
+    margin-left: 440px;
+    margin-top: 40px;
+    padding: 10px;
+}
+th{
+    color: white;
+    background-color: black;
+    padding: 15px;
+
+}

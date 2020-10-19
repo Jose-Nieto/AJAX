@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class FormularioPage {
+export class Complementario1Page {
   navigateTo() {
     return browser.get('/');
   }

@@ -1,10 +1,10 @@
-import { FormularioPage } from './app.po';
+import { Complementario2Page } from './app.po';
 
-describe('formulario App', function() {
-  let page: FormularioPage;
+describe('complementario2 App', function() {
+  let page: Complementario2Page;
 
   beforeEach(() => {
-    page = new FormularioPage();
+    page = new Complementario2Page();
   });
 
   it('should display message saying app works', () => {
